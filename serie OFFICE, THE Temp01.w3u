@@ -1,21 +1,15 @@
 
 
 {
-"name": "OFFICE, THE",
+"name": "OFFICE, THE (Season 01)",
 "image": "https://pics.filmaffinity.com/the_office-862602609-large.jpg",
-"url": "https://af1cionados.vercel.app/serie OFFICE%2C THE.w3u",
+"url": "",
 "info": "2005",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"groups":
+"stations":
 	[
 
-	{
-	"name": "TEMPORADA 1",
-	"info": "",
-	"image": "https://i.postimg.cc/gJ2fTDQL/serie-OFFICE-THE-Temp1.png",
-	"stations":
-	[
 	{
        	"name": "EPISODIO 1",
         "image": "https://pics.filmaffinity.com/the_office-862602609-large.jpg",
@@ -82,84 +76,6 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
-	]
-	},
-
-	{
-	"name": "TEMPORADA 2",
-	"info": "",
-	"image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
-	"stations":
-	[
-	{
-       	"name": "EPISODIO 1",
-        "image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
-        "url": "https:",
-       	"info": "2005",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 1",
-        "image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
-        "url": "https:",
-       	"info": "2005",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 1",
-        "image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
-        "url": "https:",
-       	"info": "2005",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 1",
-        "image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
-        "url": "https:",
-       	"info": "2005",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 1",
-        "image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
-        "url": "https:",
-       	"info": "2005",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 1",
-        "image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
-        "url": "https:",
-       	"info": "2005",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-
-	]
-	}
 
 ]
 }
